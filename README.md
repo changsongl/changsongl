@@ -1,5 +1,5 @@
 ### Hi there 👋
-###### Currently, I'm working on the Could native team as a SRE. I focus on Load Balance to provide a HA and scalable web service for the company. Therefore, I study Network and Lb solutions in the free time.
+Currently, I'm working on the Could native team as a SRE. I focus on Load Balance to provide a HA and scalable web service for the company. Therefore, I study Network and Lb solutions in the free time.
 
 <!--
 **changsongl/changsongl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
