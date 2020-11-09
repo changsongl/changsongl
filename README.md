@@ -1,9 +1,9 @@
-## Changsong Li 👋
+## 👋 Changsong Li 
 
 My name is Changsong Li, and I am from Qingdao, China. I had been studied in the US, and now I'm in China as a Software developer. Currently, I'm working on the Could native team as a SRE. I focus on Load Balance to provide a HA and scalable web service for the company. Therefore, I study Network and Lb solutions in the free time.
 
-
-#### Technologies & Tools🔧 
+---
+### 🔧 Technologies & Tools 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
