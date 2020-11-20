@@ -2,8 +2,6 @@
 
 My name is Changsong Li, and I am from Qingdao, China. I had been studied in the US, and now I'm in China as a Software developer. Currently, I'm working on the Could native team as a SRE. I focus on Load Balance to provide a HA and scalable web service for the company. Therefore, I study Network and Lb solutions in the free time.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=changsongl&show_icons=true&theme=Gradient)
-
 ##
 
 ### 🔧 Technologies & Tools 
@@ -26,3 +24,4 @@ My name is Changsong Li, and I am from Qingdao, China. I had been studied in the
 
 <!--
 **changsongl/changsongl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=changsongl&show_icons=true&theme=Gradient)
