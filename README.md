@@ -1,10 +1,8 @@
 ## 👋 Changsong Li 
 
-📝 I'm a SRE on the Could native team. I focus on Load Balance and Alert Monitor System.
-
-🚀 I'm experenced at Micro-service and Golang.
-
-:sparkles: Currently, I work on my personal project of delay queue. Star if you like it. Thx.
+- 📝 I'm a SRE on the Could native team. I focus on Load Balance and Alert Monitor System.
+- 🚀 I'm experenced at Micro-service and Golang.
+- :sparkles: Currently, I work on my personal project of delay queue. Star if you like it. Thx.
 
 
 ##
