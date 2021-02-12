@@ -2,7 +2,8 @@
 
 - 📝 I'm a SRE on the Could native team. 
 - 🚀 I'm experenced at Micro-service and Golang.
-- :sparkles: Currently, I work on my personal project - delay queue. Star if you like it. Thx.
+- 😊 Contributing to Beego Project.
+- :sparkles: My personal project - delay queue. Star if you like it. Thx.
 - 📫 How to reach me: changsongliqd@gmail.com
 
 
