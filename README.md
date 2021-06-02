@@ -1,10 +1,10 @@
-## 👋 Changsong Li 
+## 👋 Changsong Li  
  
 - 🚀 I'm experenced at Micro-service and Golang.
 - 😊 Contributing to Beego Project and studying Database.
 - :sparkles: My personal project - delay queue. Star if you like it. Thx.
 - 📫 How to reach me: changsongliqd@gmail.com
-
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangsongl&count_bg=%232BBC8A&title_bg=%23555555&icon=artstation.svg&icon_color=%23C7C7C7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ##
 
