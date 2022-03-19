@@ -1,6 +1,6 @@
 ## 👋 Changsong Li  
  
-- Senior Soft Engineer
+- Senior Software Engineer
 - Son
 - Husband
 - Father
