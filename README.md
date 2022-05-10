@@ -1,6 +1,6 @@
 ## 👋 Changsong Li  
  
-- Senior Software Engineer
+- Senior Software Engineer in Crypto.com
 - Son
 - Husband
 - Father
