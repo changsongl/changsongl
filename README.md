@@ -24,12 +24,13 @@
 ![](https://img.shields.io/badge/Tools-RabbitMq-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-LVS-informational?style=flat&logo=linux_virtual_server&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-LVS-informational?style=flat&logo=lvs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Alertmanager-informational?style=flat&logo=alertmanager&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-NewRelic-informational?style=flat&logo=newrelic&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-web3.0-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-web3.0-informational?style=flat&logo=bitcoin&logoColor=white&color=2bbc8a)
 
 <!--
 **changsongl/changsongl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
