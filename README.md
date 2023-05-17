@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Tidb-informational?style=flat&logo=tidb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-RabbitMq-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=2bbc8a)
